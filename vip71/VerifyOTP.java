@@ -4,7 +4,7 @@
  * http://www.symantec.com/verisign/vip-authentication-service/renewals-upgrades-licensing
  */
 
-package jp.co.verisign.se.vip71;
+package vip71;
 
 import java.math.BigInteger;
 import java.util.Properties;
